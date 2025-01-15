@@ -1,5 +1,4 @@
 # IntelliDoc
-IntelliDoc is Intelligent Image/Document Analyzer and Summarizer
 
 **IntelliDoc**
 Tired of wrestling with dense, complicated documents? Meet IntelliDoc, your personal document simplification assistant. Our cutting-edge AI technology transforms complex documents into clear, digestible content with just a snap of a photo.
