@@ -48,3 +48,11 @@ try:
   print(result)
 except:
   print("Invalid Image")
+
+"""
+ORIGINAL TEXT:
+Abstract Sentiment Analysis (SA) is an ongoing field of research in text mining field. SA is the computational treatment of opinions, sentiments and subjectivity of text_ This survey paper tackles comprehensive overview of the last update in this field. recently proposed algorithms' enhancements and various SA applications are investigated and presented briefly in this survey: These articles are categorized according to their contributions in the various SA techniques_ The related fields to SA (transfer learning; emotion detection; and building resources) that attracted researchers recently are discussed. The main target of this survey is to give nearly full image of SA techniques and the related fields with brief details. The main contributions of this paper include the sophisticated categorizations of number of recent articles and the illustration of the recent trend of research in the sentiment analysis and its related areas_ 2014 Production and hosting by Elsevier BV on behalf of A
+
+SUMMARIZED TEXT:
+Abstract Sentiment Analysis (SA) is an ongoing field of research in text mining field . SA is the computational treatment of opinions, sentiments and subjectivity of text . This survey paper tackles comprehensive overview of last update in this field .
+"""
